@@ -4,4 +4,4 @@ This repository holds the flight simulation of a quadrotor utilizing an integral
 Also a PowerPoint presentation with a video of the presentation is provided in Persian language.
 
 [<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
+/>](https://youtu.be/Ym-cTKo0pLI?si=dIsJNM5atB6ofQx9)
