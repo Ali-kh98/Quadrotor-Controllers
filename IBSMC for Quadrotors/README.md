@@ -3,4 +3,5 @@
 This repository holds the flight simulation of a quadrotor utilizing an integral backstepping sliding mode controller in Matlab/Simulink. 
 Also a PowerPoint presentation with a video of the presentation is provided in Persian language.
 
-[<img src="https://github.com/Ali-kh98/Quadrotor-Controllers/blob/103a7530f8da533300caa4c97fddef0cc0918aba/IBSMC%20for%20Quadrotors/Video/Results.mkv_20230911_133150.885.jpg" width="50%">]([https://youtu.be/Ym-cTKo0pLI?si=5QGqHoPFElDNEkss](https://youtu.be/Ym-cTKo0pLI?si=5QGqHoPFElDNEkss) "Now in Android: 55")
+[<img src="https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/APOPm01BVrk)
